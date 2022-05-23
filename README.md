@@ -6,9 +6,11 @@
   <div id=badges><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></div>
 
  
+  
  ![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erika-sm&count_private=true&show_icons=true&theme=nightowl&hide=stars,prs,contribs)
 
                     
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erika-sm&theme=nightowl&layout=compact)
 
 </h1>
