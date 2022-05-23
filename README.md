@@ -3,11 +3,10 @@
 <h1>
   Hey, I'm Erika 👋
   
-  ---
+<div id=badges><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></div>
   
-  <div id=badges><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></div>
+  ---
 
- 
   
  ![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erika-sm&count_private=true&show_icons=true&theme=nightowl&hide=stars,prs,contribs)
 
