@@ -4,7 +4,7 @@
   Hey,  I'm Erika 👋
   
 <div id=badges>
-  <a href="https://www.linkedin.com/in/erika-s-797a1823b/" >
+  <a href="https://www.linkedin.com/in/erika-sm/" >
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></div>
   </a>
   
