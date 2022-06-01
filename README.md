@@ -50,11 +50,15 @@
 
 ### My favorite projects
 
+<a href="https://github.com/erika-sm/Bliss" >
 <img width="405" alt="Screen Shot 2022-05-23 at 7 01 43 PM" src="https://user-images.githubusercontent.com/91225565/169918123-cee0c400-f142-4ab7-93c3-f11440689d8f.png">
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erika-sm&repo=Bliss&show_owner=true&theme=nightowl)](https://github.com/erika-sm/Bliss)
 
+<a href="https://github.com/erika-sm/Cyberspace" >
 <img width="1724" alt="Screen Shot 2022-05-26 at 7 38 34 PM" src="https://user-images.githubusercontent.com/91225565/170598815-551f66c9-572c-43d3-8dae-4195c9ebc9fb.png">
+  </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erika-sm&repo=Cyberspace&show_owner=true&theme=nightowl)](https://github.com/erika-sm/Cyberspace)
 
