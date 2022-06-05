@@ -62,4 +62,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erika-sm&repo=Cyberspace&show_owner=true&theme=nightowl)](https://github.com/erika-sm/Cyberspace)
 
+<a href="https://github.com/erika-sm/shape_tech" >
+<img width="830" alt="Screen Shot 2022-06-05 at 1 24 55 PM" src="https://user-images.githubusercontent.com/91225565/172062673-9ab79e34-2088-4f56-9f86-b1346037e49f.png">
+  </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erika-sm&repo=shape_tech&show_owner=true&theme=nightowl)](https://github.com/erika-sm/shape_tech)
+
 
