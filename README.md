@@ -11,6 +11,7 @@
   
   ---
 
+   ![](https://komarev.com/ghpvc/?username=erika-sm&color=green)
   
  ![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erika-sm&count_private=true&show_icons=true&theme=nightowl&hide=stars,prs,contribs)
 
@@ -70,4 +71,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erika-sm&repo=shape_tech&show_owner=true&theme=nightowl)](https://github.com/erika-sm/shape_tech)
 
 
- ![](https://komarev.com/ghpvc/?username=erika-sm&color=green)
