@@ -1,5 +1,5 @@
 <div id=header align=center>
-
+  
 <h1>
   Hey,  I'm Erika 👋
   
@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/erika-sm/" >
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></div>
   </a>
+ 
   
   ---
 
@@ -69,3 +70,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erika-sm&repo=shape_tech&show_owner=true&theme=nightowl)](https://github.com/erika-sm/shape_tech)
 
 
+ ![](https://komarev.com/ghpvc/?username=erika-sm&color=green)
