@@ -23,16 +23,6 @@
   
   </div>
 
----
-
-### :woman_technologist: About Me: 
-
-- Full MERN stack developer from Montreal, Canada.
-- Currently learning Python and SQL.
-- Huge passion for music with a desire to help expand its accessibility.
-- Drawn to problem solving since a very young age, so stepping up during debug sessions is something I'll never shy away from!
-
-
 </div>
 
 ---
