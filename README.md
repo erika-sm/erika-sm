@@ -1,15 +1,6 @@
 <div id=header align=center>
   
-<h1>
-  Hey,  I'm Erika 👋
-  
-<div id=badges>
-  <a href="https://www.linkedin.com/in/erika-sm/" >
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></div>
-  </a>
- 
-  
-  ---
+<h1>   
 
    ![](https://komarev.com/ghpvc/?username=erika-sm&color=green)
   
